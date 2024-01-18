@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I am interested in web design.
 - I am new and looking for a job.
 - 📫 LinkedIn address : https://www.linkedin.com/in/sina-zinsaz-a71061244/
-- https://icons8.com/icon/37325/youtube
+- <img src="https://icons8.com/icon/37325/youtube" />
 
 <br />
 
