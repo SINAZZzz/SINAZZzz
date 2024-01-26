@@ -9,14 +9,14 @@ You can click the Preview link to take a look at your changes.
 
  ## About:
 - 👀 I am interested in web design.
-- I am new and looking for a job.
+- 👩🏾‍💻 I am new and looking for a job.
 - 📫 LinkedIn address : https://www.linkedin.com/in/sina-zinsaz-a71061244/
-- Youtube address : https://www.youtube.com/@sinarage
-- Stackoverflow address : https://stackoverflow.com/users/20870363/sina-zinsaz
-- GitHub address : https://github.com/SINAZZzz
-- Instagram address : https://www.instagram.com/sina_rage/
-- dev address : https://dev.to/sinazinsaz
-- dribbble address : https://dribbble.com/SINAzz
+- 🔥 Youtube address : https://www.youtube.com/@sinarage
+- 🌝 Stackoverflow address : https://stackoverflow.com/users/20870363/sina-zinsaz
+- 🌼 GitHub address : https://github.com/SINAZZzz
+- 🌈 Instagram address : https://www.instagram.com/sina_rage/
+- 💥 dev address : https://dev.to/sinazinsaz
+- ⚡️ dribbble address : https://dribbble.com/SINAzz
 
 <br />
 
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<!-- ## 🌏 **CONNECT WITH ME**
+## 🌏 **CONNECT WITH ME**
 
 <a href="https://www.instagram.com/hi.coders"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
-</a> -->
+</a> 
 
 <!-- <a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
