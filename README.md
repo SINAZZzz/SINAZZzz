@@ -10,11 +10,8 @@ You can click the Preview link to take a look at your changes.
  ## About:
 - 👀 I am interested in web design.
 - 👩🏾‍💻 I am new and looking for a job.
-- 📫 LinkedIn address : https://www.linkedin.com/in/sina-zinsaz-a71061244/
-- 🔥 Youtube address : https://www.youtube.com/@sinarage
 - 🌝 Stackoverflow address : https://stackoverflow.com/users/20870363/sina-zinsaz
 - 🌼 GitHub address : https://github.com/SINAZZzz
-- 🌈 Instagram address : https://www.instagram.com/sina_rage/
 - 💥 dev address : https://dev.to/sinazinsaz
 - ⚡️ dribbble address : https://dribbble.com/SINAzz
 
@@ -36,23 +33,23 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/hi.coders"> 
+<a href="[https://www.instagram.com/hi.coders](https://www.instagram.com/sina_rage/)"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.gg/TTsSYUJzDa"> 
+<!-- <a href="https://discord.gg/TTsSYUJzDa"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
-<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
+</a> -->
+<a href="https://www.youtube.com/@sinarage"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a> 
 
-<!-- <a  href="https://www.linkedin.com/company/hi-coders/">
+<a  href="[https://www.linkedin.com/company/hi-coders/](https://www.linkedin.com/in/sina-zinsaz-a71061244/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://codepen.io/hicoders"> 
+<!-- <a href="https://codepen.io/hicoders"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a>
-<br /> -->
+</a> -->
+<br /> 
 
  ## 🕸️ **WEB DEV**
 
