@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 - 💥 dev address : https://dev.to/sinazinsaz
 - ⚡️ dribbble address : https://dribbble.com/SINAzz
 
-<br />
-
 ## Fun Fact 🎈:
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
