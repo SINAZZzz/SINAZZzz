@@ -47,26 +47,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
-<!-- <a href="https://discord.gg/TTsSYUJzDa"> 
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a> -->
-
-<!-- <a href="mailto:hicodersofficial@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a> -->
-
-<!-- <a href="https://twitter.com/coders_hi"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a> -->
-<!-- <a href="https://www.facebook.com/hicoders"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a> -->
-
-<!-- <a href="https://codepen.io/hicoders"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a> -->
-<br />
-
  ## 🕸️ **WEB DEV**
  
 <div style="display:'flex'">
