@@ -77,18 +77,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
- ## ☃️ **MY LEARNING RESOURCES**
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-
-[github]: https://github.com/SINAZZzz
-[doc]: https://www.digitalocean.com/community
-[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
-[sof]: https://stackoverflow.com/users/20870363/sina-zinsaz
-<hr />
-
-
-
 
