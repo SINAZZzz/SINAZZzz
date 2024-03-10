@@ -29,22 +29,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-## 🌏 **CONNECT WITH ME**
-<div style="display:'flex'">
- <a href="[https://www.instagram.com/hi.coders](https://www.instagram.com/sina_rage/)"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="[https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg](https://www.youtube.com/@sinarage)"> 
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
-</a>
-<a href="https://github.com/SINAZZzz"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a>
-<a  href="[https://www.linkedin.com/company/hi-coders/](https://www.linkedin.com/in/sina-zinsaz-a71061244/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-</div>
-
  ## 🕸️ **WEB DEV**
  
 <div style="display:'flex'">
