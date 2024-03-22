@@ -8,8 +8,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
  ## About:
-- 👀 I am interested in web design.
-- 👩🏾‍💻 I am new and looking for a job.
+- 👀 Hello, I am Sina Zinsaz, interested in website design.
+      My specialty is frontend developer.
+      I work with react framework and typescript language.
+      Following the creation of new websites and their development.
 - 🌝 Stackoverflow address : https://stackoverflow.com/users/20870363/sina-zinsaz
 - 🌼 GitHub address : https://github.com/SINAZZzz
 - 💥 dev address : https://dev.to/sinazinsaz
