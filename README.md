@@ -1,9 +1,3 @@
-
-<!---
-SINAZZzz/SINAZZzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Sina Zinsaz</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
@@ -35,20 +29,6 @@ You can click the Preview link to take a look at your changes.
     <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />
 </a>
 </div>
-
-## Fun Fact 🎈:
-
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-
-
-• 🔭 I am currently learning a new language  <br />
-• 👯 I’m looking to collaborate on cool project. <br />
-• 💬 Ask me about TypeScript><br/>
-</span>
-
-<br />
-<br />
 
  ## 🕸️ **WEB DEV**
  
